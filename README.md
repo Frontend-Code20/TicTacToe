@@ -23,4 +23,6 @@ This is a fully responsive **Tic Tac Toe** game built using **HTML**, **CSS**, a
 - Vanilla JavaScript
 
 ## 📸 Demo
-![""](./Screenshot.png)
+!["Start Screen"](./assets/preview/starts.png)
+!["Play Screen"](./assets/preview/play.png)
+!["Result Screen"](./assets/preview/result.png)
